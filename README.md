@@ -1,7 +1,7 @@
 # Meu Portfolio
 Bem-vindo ao meu portfólio! Este projeto mostra minhas habilidades, projetos e experiências como desenvolvedor.
 
-### Weblink: [Live Website](https://lucasmarujo.github.io/portfolio) !!
+### Weblink: [Live Website](https://lucasmarujo.github.io/portfolio-2.0/) !!
 
 
 ## Tabela de Conteúdos

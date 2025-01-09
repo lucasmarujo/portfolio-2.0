@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio/static/js/main.968e9b1e.js",
+    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.5a15b67c10192a743726.jpg",
+    "static/media/masclub.png": "/portfolio/static/media/masclub.b95c002c1a6fbe484ad0.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.91ed4c532415277bb010.png",
+    "static/media/handtracker.png": "/portfolio/static/media/handtracker.5e01659dc954016f0c83.png",
+    "static/media/adapitfy.png": "/portfolio/static/media/adapitfy.ad6de9edc74d9ea9bc67.png",
+    "static/media/AdapitfyC.png": "/portfolio/static/media/AdapitfyC.1b4a10ed3d279e4186e7.png",
+    "static/media/todolist.png": "/portfolio/static/media/todolist.88872617b1bddbadede0.png",
+    "static/media/cosmos.png": "/portfolio/static/media/cosmos.c0e73352a5e806c9537d.png",
+    "static/media/brazil.png": "/portfolio/static/media/brazil.d5d82beca796f94ba42c.png",
+    "static/media/united-states.png": "/portfolio/static/media/united-states.4d9d990626a3df96a265.png",
+    "index.html": "/portfolio/index.html",
+    "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
+    "main.968e9b1e.js.map": "/portfolio/static/js/main.968e9b1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.968e9b1e.js"
+  ]
+}

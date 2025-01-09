@@ -1,7 +1,7 @@
 {
   "name": "lucas-marujo-portfolio",
   "version": "0.1.0",
-  "homepage": "https://lucasmarujo.github.io/portfolio",
+  "homepage": "https://lucasmarujo.github.io/portfolio-2.0/",
   "private": true,
   "dependencies": {
     "@craco/craco": "^7.1.0",
